@@ -1,0 +1,4 @@
+factor_generate.ipynb       展示如何从Bar_1d_raw.pkl的原始数据中生成足够多的特征文件
+factor_generate_run.py     同factor_generate.ipynb文件中相同的算法，对全市场全区间的原始数据，通过并行，进行因子生成和特征工程的py文件
+graduate_all.ipynb              集成毕设中的模型设计训练与策略回测方法的代码
+FactorAnalysis.py                策略回测框架
